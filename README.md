@@ -17,7 +17,7 @@
 ## 🔥 Streak Stats
 | Stats    | Streak    |
 | :---: | :---: |
-|<a href="https://github.com/Yuvraj0157"><img alt="Yuvraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuvraj0157&show_icons=true&theme=transparent" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com?user=Yuvraj0157&theme=github-dark-blue" alt="Yuvraj's Streaks"/>|
+|<a href="https://github.com/Yuvraj0157"><img alt="Yuvraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yuvraj0157&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj0157&theme=tokyonight&hide_border=false" alt="Yuvraj's Streaks"/>|
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
