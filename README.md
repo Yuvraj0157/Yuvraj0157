@@ -19,9 +19,6 @@
 | :---: | :---: |
 |<a href="https://github.com/Yuvraj0157"><img alt="Yuvraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yuvraj0157&show_icons=true&theme=transparent" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com?user=Yuvraj0157&theme=github-dark-blue" alt="Yuvraj's Streaks"/>|
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWEwZDZmMTdhZGEzMWQ3ZDlmNGFmZGEwZGJjMDQ1NzAzODg3ZmRmZCZjdD1z/LM7mVNy0iAZpTBAkIH/giphy.gif" width="50px" height="50px">Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/yuvraj0157/count.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
 </p>
