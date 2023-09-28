@@ -24,11 +24,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![OOPs](https://img.shields.io/badge/-OOPs-05122A?style=flat)&nbsp;
 
-## 🔥 GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj0157&theme=tokyonight)](https://github.com/Yuvraj0157)
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
 </p>
